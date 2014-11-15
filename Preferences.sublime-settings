@@ -1,0 +1,33 @@
+{
+	"animation_enabled": false,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"expand_tabs_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".subl"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		70,
+		80
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
