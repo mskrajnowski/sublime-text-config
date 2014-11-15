@@ -1,0 +1,17 @@
+[
+    {
+        "command": "typescript_definition",
+        "keys": ["super+g"],
+        "context": [ {"key": "T3S"} ]
+    },
+    {
+        "command": "typescript_type",
+        "keys": ["super+d"],
+        "context": [ {"key": "T3S"} ]
+    },
+    {
+        "command": "typescript_references",
+        "keys": ["super+f"],
+        "context": [ {"key": "T3S"} ]
+    }
+]

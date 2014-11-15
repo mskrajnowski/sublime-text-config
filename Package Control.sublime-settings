@@ -2,10 +2,18 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Anaconda",
+		"AngularJS",
+		"AngularJS (CoffeeScript)",
+		"Better CoffeeScript",
 		"Better TypeScript",
+		"DocBlockr",
 		"Git",
 		"GYP",
 		"iOpener",
+		"Jade",
+		"Jade Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"LESS",
 		"SideBarEnhancements",
 		"Table Editor",
