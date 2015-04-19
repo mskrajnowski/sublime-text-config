@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -23,7 +26,9 @@
 		"LESS",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Package Control",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",

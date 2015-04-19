@@ -1,4 +1,11 @@
 {
 	"enable_table_editor": true,
-	"trim_trailing_white_space_on_save": false
+  "tab_size": 2,
+	"extensions":
+	[
+		"md",
+		"mdown"
+	],
+	"trim_trailing_white_space_on_save": false,
+  "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme"
 }
